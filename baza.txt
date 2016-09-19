@@ -1,0 +1,18 @@
+3
+OSOBOWE
+2
+Ulasenka Edward ABC1111 1999
+Kirov Misha MNL9999 2009
+ROWERY
+4
+Skorbilin Anton NJF3948 2009
+Manajchuk Mikita JIJ2938 1998
+Kuhta Nikita MNM2984 2012
+Loko Ula NNN5555 1999
+ABC
+4
+Ulasenka Edward ABC1111 1999
+Skorbilin Anton NJF3948 2009
+Kirov Misha MNL9999 2009
+Loko Ula NNN5555 1999
+
